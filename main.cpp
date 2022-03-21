@@ -19,5 +19,8 @@ int main(){
 	else if (choice == 4){
 		break;
 	}
+	else{
+		cout << "Invalid input\n";
 	}
-}
+	}
+	}
