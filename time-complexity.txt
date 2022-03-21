@@ -1,0 +1,3 @@
+Insert - O(1)
+Search - O(n)
+Delete - O(n)
